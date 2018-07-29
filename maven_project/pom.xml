@@ -52,8 +52,7 @@
       </plugins>
       
     </pluginManagement>
-  </build>
-  
+	  </build>
   </profile>
     </profiles>
    <build>
